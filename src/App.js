@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
-import Sidebar from './components/sidebar'
-import Introduction from './components/introduction'
-import About from './components/about'
-import Timeline from './components/timeline'
+import Sidebar from './components/sidebar';
+import Introduction from './components/introduction';
+import About from './components/about';
+import Timeline from './components/timeline';
+// import Projects from './components/projects';
 import './App.css';
 
 class App extends Component {
@@ -10,13 +11,14 @@ class App extends Component {
     return (
       <div id="colorlib-page">
         <div id="container-wrap">
-         	<Sidebar></Sidebar>
-				<div id="colorlib-main">
-					<Introduction></Introduction>
-					<About></About>
-					<Timeline></Timeline>
-          	</div>
-      	</div>
+          <Sidebar></Sidebar>
+          <div id="colorlib-main">
+            <Introduction></Introduction>
+            <About></About>
+            {/* <Projects /> */}
+            <Timeline></Timeline>
+          </div>
+        </div>
       </div>
     );
   }

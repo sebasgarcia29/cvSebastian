@@ -11,10 +11,10 @@ export default class About extends Component {
                                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                                     <div className="col-md-12">
                                         <div className="about-desc">
-                                            <span className="heading-meta">About Us</span>
+                                            <span className="heading-meta">About me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <p>
-                                                {'I am a systems engineer and passionate about web development. I have experience in web and most recently in mobile development, Dart principally using react/react native'}
+                                                {'I am a systems engineer and passionate about mobile development. I have experience in web and most recently, I have been work wit technologies like a react/react native and I learned Dart principally how a Hobbie.'}
                                             </p>
                                             <p>
                                                 {'I have wholly enjoyed working with React, sinceit is a framework that allows in a couple of seconds build robust interfaces with just a couple of steps, taking advantage of all the work built by the community. Additionally, how not to recognize that it is built in a language as important and versatile as Javascript. The simple fact of being a framework supported by Facebook considerably optimise software as a result of his very active community'}

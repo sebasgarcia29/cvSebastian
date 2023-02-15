@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> React Native developer, Onetree <span> stared: 2021/12/01 - Current</span></h2>
+                        <h2> Team Lead React Native, Onetree <span> stared: 2021/12/01 - Current</span></h2>
                         <p>
                           {'Perform the functions of a mobile application developer, for the development of processes and procedures involved in writing software for small and wireless computing devices, such as smartphones and other portable devices. In the same way, it must be in charge of the creation, maintenance and implementation of the source code that integrates the applications; influence the graphic design and usability of your creations, which run across cell phones and tablets.'}
                         </p>

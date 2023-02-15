@@ -52,7 +52,7 @@ export default class About extends Component {
                                         <i className="icon-phone3" />
                                     </span>
                                     <div className="desc">
-                                        <h3>Mobile deveopment</h3>
+                                        <h3>Mobile development</h3>
                                         <p>I have experience building app mobiles in iOS and Android using React Native or Flutter</p>
                                     </div>
                                 </div>

@@ -24,7 +24,7 @@ export default class Timeline extends Component {
                   >
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
+                        <i className="icon-star3" />
                       </div>
                       <div className="timeline-label">
                         <h2>
@@ -46,7 +46,7 @@ export default class Timeline extends Component {
                   >
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
-                        <i className="icon-pen2" />
+                        <i className="icon-star3" />
                       </div>
                       <div className="timeline-label">
                         <h2>
@@ -68,7 +68,7 @@ export default class Timeline extends Component {
                   >
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-2">
-                        <i className="icon-pen2" />
+                        <i className="icon-star3" />
                       </div>
                       <div className="timeline-label">
                         <h2>
@@ -88,7 +88,7 @@ export default class Timeline extends Component {
                   >
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
+                        <i className="icon-star3" />
                       </div>
                       <div className="timeline-label">
                         <h2>
@@ -110,7 +110,7 @@ export default class Timeline extends Component {
                   >
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
+                        <i className="icon-star3" />
                       </div>
                       <div className="timeline-label">
                         <h2>

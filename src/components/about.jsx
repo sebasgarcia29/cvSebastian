@@ -47,21 +47,7 @@ export default class About extends Component {
               </div>
             </div>
             <div className="row row-pt-md">
-              <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
-                  <span className="icon">
-                    <i className="icon-bulb" />
-                  </span>
-                  <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>
-                      I have experience building websites using
-                      JavaScript,ReactJS,HTML,CSS or Dart with Flutter
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-md-4 text-center animate-box">
+              <div className="col-md-3 text-center animate-box">
                 <div className="services color-3">
                   <span className="icon">
                     <i className="icon-phone3" />
@@ -75,32 +61,50 @@ export default class About extends Component {
                   </div>
                 </div>
               </div>
-              <div className="col-md-4 text-center animate-box">
+              <div className="col-md-3 text-center animate-box">
+                <div className="services color-1">
+                  <span className="icon">
+                    <i className="icon-device-desktop" />
+                  </span>
+                  <div className="desc">
+                    <h3>Web Development </h3>
+                    <p>
+                      I have experience building websites using
+                      JavaScript,ReactJS,HTML,CSS or Dart with Flutter
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-3 text-center animate-box">
                 <div className="services color-5">
                   <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-pen2" />
                   </span>
                   <div className="desc">
                     <h3>Dev chatbots</h3>
                     <p>
-                      I have experience building chatbots on Telegram or
-                      Whatsapp using Nodejs
+                      I possess experience in constructing chatbots for
+                      platforms like Telegram or WhatsApp, utilizing Node.js.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="col-md-3 text-center animate-box">
+                <div className="services color-2">
+                  <span className="icon">
+                    <i className="icon-watch" />
+                  </span>
+                  <div className="desc">
+                    <h3>Watch developer</h3>
+                    <p>
+                      I have cultivated expertise as an autodidact in developing
+                      user interfaces for the Apple Watch.
                     </p>
                   </div>
                 </div>
               </div>
               {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-4">
                 <span className="icon">

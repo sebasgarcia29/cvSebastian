@@ -22,7 +22,7 @@ export default class Sidebar extends Component {
                 style={{ backgroundImage: "url(images/about2.png)" }}
               />
               <h1 id="colorlib-logo">
-                <a href="/">Sebastian García Cadavid</a>
+                <a href="/">Sebastian García Cadavid 🇨🇴</a>
               </h1>
               <span className="email">
                 <i className="icon-mail"></i> sebas-fe@hotmail.com{" "}
